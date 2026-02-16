@@ -1,0 +1,6 @@
+[
+  { "name": "Tom",   "age": 41, "company": "Microsoft" }, 
+  { "name": "Bob",   "age": 56, "company": "Google" }, 
+  { "name": "Sam",   "age": 32, "company": "Yandex" }, 
+  { "name": "Alice", "age": 38, "company": "Microsoft" }
+]
