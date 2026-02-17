@@ -1,12 +1,13 @@
 [project]
 name = "university-6sem-data-analysis"
 version = "0.1.0"
-description = "Add your description here"
+description = "Язык Python для анализа данных, семестр 6"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
   "ipykernel>=7.2.0",
   "lxml>=6.0.2",
+  "matplotlib>=3.10.8",
   "nbconvert>=7.17.0",
   "openpyxl>=3.1.5",
   "pandas>=3.0.0",
